@@ -1,5 +1,5 @@
  
-### Internet Blocking using firewall rule in pfSense
+### Internet Blocking using firewall rules in pfSense
 
 ##### I have 4 client machine on virtual box
 ##### Clinet1 IP: 10.0.0.11
